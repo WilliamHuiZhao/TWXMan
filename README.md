@@ -1,18 +1,17 @@
-﻿=====================================================================
+﻿# TWXMan
+## Overview  
 Welcome to TWXMan!
+This tool is only for ThingWorx testing.  
+You can use it to create multiple ThingWorx instances on one computer.  
+Only tested on Windows 10 OS, English version.  
 
-This tool is only for internal ThingWorx testing.
-
-Only tested on Windows 10 OS, English version.
-
-=====================================================================
 Thingworx Runtime Usage
 
-Prerequisites
+## Prerequisites
 1. Setup Oracle JDK.
 2. Setup PostgreSQL 12.
 
-Steps
+## Steps
 1. Unzip to C:\data\TWXMan.
 2. Run C:\data\TWXMan\TWXMan.exe.
 3. Download Apache Tomcat zip distribution files, for example apache-tomcat-9.0.63.zip, and store into C:\data\TWXMan\package\tomcat.
